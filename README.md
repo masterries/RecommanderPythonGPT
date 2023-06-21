@@ -25,3 +25,4 @@ Die `LangChainHugging.ipynb` ist für das Erstellen der Pinecone.db zuständig, 
 Um das Tool zu verwenden, muss man eine `.env` Datei erstellen, die auf der `default.env` basiert, und die entsprechenden API keys einfügen.
 
 ## Funktionsweise
+![alt text](Function.png "Title")
